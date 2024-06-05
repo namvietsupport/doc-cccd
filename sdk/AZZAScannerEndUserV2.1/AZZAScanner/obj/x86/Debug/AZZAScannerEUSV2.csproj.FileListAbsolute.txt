@@ -1,0 +1,22 @@
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\bin\x86\Debug\AZZAScanner.exe.config
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\bin\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\bin\x86\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.AssemblyReference.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScanner.Form1.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScanner.Properties.Resources.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.GenerateResource.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.CoreCompileInputs.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScan.1357E408.Up2Date
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUserV2\AZZAScanner\obj\x86\Debug\AZZAScanner.pdb
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\bin\x86\Debug\AZZAScanner.exe.config
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\bin\x86\Debug\AZZAScanner.exe
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\bin\x86\Debug\AZZAScanner.pdb
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScanner.Form1.resources
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScanner.Properties.Resources.resources
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.GenerateResource.cache
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csproj.CopyComplete
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScanner.exe
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScanner.pdb
+C:\Users\mypc\Downloads\AZZAScannerEndUserV2.1\AZZAScanner\obj\x86\Debug\AZZAScannerEUSV2.csprojAssemblyReference.cache

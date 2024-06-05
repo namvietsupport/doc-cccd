@@ -1,0 +1,9 @@
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.Properties.Resources.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.csproj.GenerateResource.Cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.Form1.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\Debug\AZZAScanner.exe.config
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\Debug\AZZAScanner.csprojResolveAssemblyReference.cache

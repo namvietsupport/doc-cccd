@@ -1,0 +1,11 @@
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\x86\Debug\AZZAScanner.exe.config
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\bin\x86\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.Form1.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.Properties.Resources.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.csproj.GenerateResource.Cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.frmDangKy.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.csproj.AssemblyReference.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScanner\AZZAScanner\obj\x86\Debug\AZZAScanner.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\bin\x86\Debug\AZZAScanner.exe.config
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\bin\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\bin\x86\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScannerEUS.csproj.AssemblyReference.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScanner.Form1.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScanner.Properties.Resources.resources
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScannerEUS.csproj.GenerateResource.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScannerEUS.csproj.CoreCompileInputs.cache
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScanner.exe
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScanner.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\bin\x86\Debug\AZZAScannerDllV2.dll
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\bin\x86\Debug\AZZAScannerDllV2.pdb
+D:\Project\DemoCCCD\AZZA Scan\AZZAScannerDllV2\AZZAScannerEndUser\AZZAScanner\obj\x86\Debug\AZZAScan.AE1A6189.Up2Date
